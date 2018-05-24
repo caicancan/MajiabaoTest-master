@@ -30,7 +30,7 @@ android {
             // 马甲包的配置信息
             app1 {
                 applicationId 'com.lzp.multipackagedemo1'
-                manifestPlaceholders = [app_name: "app1", app_icon: "@mipmap/ic_launcher"]
+                manifestPlaceholders = [app_name: "app1", app_icon: "@mipmap/ic_launcher_round"]
             }
         }
 
